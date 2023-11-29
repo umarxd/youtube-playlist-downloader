@@ -8,3 +8,11 @@
 
 python -m pip install https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 ```
+
+### Usage
+
+```
+# Run the program in the following format:
+
+python script.py YOUR_PLAYLIST_URL ./output_directory
+```
